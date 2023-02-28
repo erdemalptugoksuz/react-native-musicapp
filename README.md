@@ -1,3 +1,3 @@
 # React Native musicapp
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/81254185/221927888-1cd9f50f-9cd6-434c-8ccf-0d7516ebc7f6.gif)
+https://user-images.githubusercontent.com/81254185/221928728-39fd6321-aafd-4c43-868b-38e9e046df00.mov
